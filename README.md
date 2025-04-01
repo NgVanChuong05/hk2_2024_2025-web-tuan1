@@ -1,2 +1,6 @@
 huy.txt
-edit on computer
+
+edit 
+
+edit on gitthub
+
